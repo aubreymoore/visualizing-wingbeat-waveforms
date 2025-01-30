@@ -1,5 +1,3 @@
-# visualizing-wingbeat-harmonics
-
 ## Technical notes
 
 ### Using ```uv``` to intitialize project
@@ -17,5 +15,3 @@ unzip master.zip
 mv reveal.jz-master revealjs
 rm master.zip
 ```
-
-# visualizing-wingbeat-waveforms
