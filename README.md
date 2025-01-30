@@ -1,3 +1,5 @@
+https://aubreymoore.github.io/visualizing-wingbeat-waveforms/revealjs/index.html
+
 ## Technical notes
 
 ### Using ```uv``` to intitialize project
