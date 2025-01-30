@@ -1,4 +1,4 @@
-https://aubreymoore.github.io/visualizing-wingbeat-waveforms/revealjs/index.html
+https://aubreymoore.github.io/visualizing-wingbeat-waveforms/reveal.js/index.html
 
 ## Technical notes
 
